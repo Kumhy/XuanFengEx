@@ -201,13 +201,14 @@ var Ex = {
                         });
 
                         callback(downloads);
-                        if ($('#btn_rpc_dl').hasClass('disabled_btn'))
-                            $('#btn_rpc_dl').removeClass('disabled_btn');
                     }
                 });
             });
         }).fail(function () {
             msg.error('接口异常？请联系脚本作者！');
+        }).always(function () {
+            if ($('#btn_rpc_dl').hasClass('disabled_btn'))
+                $('#btn_rpc_dl').removeClass('disabled_btn');
         });
     },
     setting: function () {
