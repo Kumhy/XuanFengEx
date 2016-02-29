@@ -2,13 +2,9 @@
     "manifest_version": 2,
     "name": "XuanFengEx",
     "description": "QQ离线下载2Aria2",
-    "version": "0.7.6",
+    "version": "0.7.7",
     "content_scripts": [{
-            "js": [
-                "js/jquery-1.7.2.min.js",
-                "js/jquery.Storage.js",
-                "XuanFengEx.js"
-            ],
+            "js": ["XuanFengEx.js"],
             "matches": ["http://lixian.qq.com/main.html*"]
         }]
 }
