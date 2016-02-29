@@ -4,6 +4,12 @@
 
 基于 @rhyzx 的[xuanfeng-userscript](https://github.com/rhyzx/xuanfeng-userscript)
 
+##安装
+
+所有支持userscript的浏览器
+
+- [XuanFengEx.user.js](https://raw.githubusercontent.com/Kumhy/XuanFengEx/master/XuanFengEx.user.js)：下载后拖动XuanFengEx.user.js至浏览器即可。
+
 ##更新
 
 0.7.7
