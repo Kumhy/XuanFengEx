@@ -4,13 +4,22 @@
 
 基于 @rhyzx 的[xuanfeng-userscript](https://github.com/rhyzx/xuanfeng-userscript)
 
+###交流
+
+QQ群：225332361
+
 ##安装
 
 所有支持userscript的浏览器
 
-- [XuanFengEx.user.js](https://raw.githubusercontent.com/Kumhy/XuanFengEx/master/XuanFengEx.user.js)：下载后拖动XuanFengEx.user.js至浏览器即可。
+- [XuanFengEx.user.js](https://raw.githubusercontent.com/Kumhy/XuanFengEx/master/src/XuanFengEx.user.js)：下载后拖动XuanFengEx.user.js至浏览器即可。
+- Chrome 打包下载后，扩展程序-开发者模式-加载已解压的扩展程序，选择src目录即可。
 
 ##更新
+
+0.7.8
+
+    > 使用NetBeans管理项目，简单优化了部分代码。
 
 0.7.7
 

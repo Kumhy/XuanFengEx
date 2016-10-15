@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name                XuanFengEx
 // @namespace           https://github.com/Kumhy/XuanFengEx
-// @version             0.7.7
+// @version             0.7.8
 // @description         QQ离线下载2Aria2
 // @match               http://lixian.qq.com/main.html*
 // @copyright           2016+, Kuma
